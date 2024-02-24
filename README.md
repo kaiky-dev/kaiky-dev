@@ -17,7 +17,3 @@
 )](https://wa.me/qr/W3R4ODNF6ZK4C1)
 
 </div>
-
-<hr>
-
-testando
