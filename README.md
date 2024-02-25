@@ -1,4 +1,4 @@
-### Olá! Sou Kaiky Vasques, estudante de programação. 👍
+### Olá! Me chamo Kaiky Vasques. 👍
 ![Kaiky GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiky-dev&show_icons=true&theme=transparent)
 <br>
 ### Tecnologias sendo estudadas: <br>
