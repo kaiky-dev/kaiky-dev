@@ -1,4 +1,4 @@
-### Hi! My name is Kaiky Vasques. 👍
+### Hi! My name is Kaiky Vasques.
 
 ![Kaiky GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiky-dev&show_icons=true&theme=transparent)
 
