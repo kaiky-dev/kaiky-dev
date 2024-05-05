@@ -2,12 +2,16 @@
 
 ![Kaiky GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiky-dev&show_icons=true&theme=transparent)
 
+<hr style="margin:20 0">
+
 <div>
 <img width="30" alt="JavaScript" style="margin:0 2 0 0; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img width="30" alt="CSS 3" style="margin:0 2; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img width="30" alt="HTML 5" style="margin:0 2; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img width="30" alt="SQL" style="margin:0 2; display:inline-block" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://camo.githubusercontent.com/5e956ea0943b5a05092e94d7376582051e61fe84af215ad6e35334a2d61b658a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667)" />
 </div>
-<hr style="margin:20 0 16 0">
+
+<hr style="margin:20 0">
 
 [![E-mail](https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:kaikyvasques321@gmail.com)
 [![Instagram](https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465
