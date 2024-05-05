@@ -2,13 +2,18 @@
 
 ![Kaiky GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiky-dev&show_icons=true&theme=transparent)
 
-<hr style="margin:20 0">
-
 <div>
-<img width="30" alt="JavaScript" style="margin:0 2 0 0; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img width="30" alt="CSS 3" style="margin:0 2; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img width="30" alt="HTML 5" style="margin:0 2; display:inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img width="30" alt="SQL" style="margin:0 2; display:inline-block" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://camo.githubusercontent.com/5e956ea0943b5a05092e94d7376582051e61fe84af215ad6e35334a2d61b658a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667)" />
+<img width="30" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+<img width="30" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+<img width="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img width="30" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img width="30" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+
+<img width="30" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />          
 </div>
 
 <hr style="margin:20 0">
